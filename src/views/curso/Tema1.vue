@@ -34,8 +34,8 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/2.png', alt='')
     
-    #t_1_1.titulo-segundo(data-aos="flip-up")
-      h2 #[span 1.1] Fundamentos de la replicación en sistemas distribuidos
+    #t_1_2.titulo-segundo(data-aos="flip-up")
+      h2 #[span 1.2] Fundamentos de la replicación en sistemas distribuidos
     
     .row.justify-content-center.align-items-center.bg-color-6.mb-5
       .col-lg-12
@@ -106,7 +106,7 @@
     .titulo-figura.mb-4
       h5 Tabla 1.
       span Comparación general de modelos
-    .tabla-a.color-acento-botones
+    .tabla-a.color-acento-botones.mb-5
       table
         thead
           tr
