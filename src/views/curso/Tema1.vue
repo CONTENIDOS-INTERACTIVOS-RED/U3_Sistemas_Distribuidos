@@ -35,7 +35,7 @@
               img(src='@/assets/curso/tema1/2.png', alt='')
     
     #t_1_2.titulo-segundo(data-aos="flip-up")
-      h2 #[span 1.2] Fundamentos de la replicación en sistemas distribuidos
+      h2 #[span 1.2] Modelos de consistencia en entornos replicados
     
     .row.justify-content-center.align-items-center.bg-color-6.mb-5
       .col-lg-12

@@ -25,7 +25,7 @@
             p(data-aos="fade-left").mb-4 Para estudiar esta temática, lo invitamos a escuchar el siguiente podcast.
     
             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-              texto="Fundamentos de la innovación estratégica"
+              texto="Introducción al problema del consenso en sistemas distribuidos"
               tiempo
               :audio="require('../../assets/curso/podcast/podcast1.mp3')"
             )
